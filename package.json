@@ -1,0 +1,19 @@
+{
+  "name": "library-app",
+  "version": "0.0.0",
+  "description": "An app to help the user organize their personal library based on a call-number system. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajleon95/LibraryApp.git"
+  },
+  "author": "A.J. Leon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajleon95/LibraryApp/issues"
+  },
+  "homepage": "https://github.com/ajleon95/LibraryApp#readme"
+}
